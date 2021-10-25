@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Sebastian</h1>
 <h3>Self taught software engineer and statistics lover.</h3>
 
-I’m a software engineer based in Poland  🇵🇱. I plan to create a blog where I'll write about my problems through the difficulties encountered along the software development path on [my blog](https://zboru.github.io/). I mainly write about programming and learning, there will also be all kinds of tips and interesting facts. In my free time, I like to play games or watch some TV series or .
+I’m a software engineer based in Poland  🇵🇱. I plan to create a blog where I'll write about my problems through the difficulties encountered along the software development path on [my blog](https://zboru.github.io/blog). I mainly write about programming and learning, there will also be all kinds of tips and interesting facts. In my free time, I like to play games or watch some TV series or .
 
 - 🔭 I’m currently working as Fullstack developer
 - 🌱 I’m currently learning JavaScript/PHP using Vue and Laravel
